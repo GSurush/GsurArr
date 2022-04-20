@@ -69,7 +69,7 @@ public class GsurSon{
 	
 	
 	
-	private void replace(int pos,String newValue){
+	public void replace(int pos,String newValue){
 		this.jsonCode = this.jsonCode.replaceFirst(get(pos),newValue);
 	}
 	

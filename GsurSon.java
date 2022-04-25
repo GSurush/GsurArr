@@ -1,5 +1,4 @@
-package com.Gsur;
-import java.util.ArrayList;
+package com.gsur;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
